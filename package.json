@@ -45,5 +45,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "​\r > a website that allows people to upload images and description of winter supplies, and allows people in need to go on and choose what they need. to later be delivered to them.\r ​\r ## Team\r ​\r   - __Product Owner__: Fatima \r   - __Scrum Master__: Rahaf \r   - __Development Team Members__: Nour , Dialah , fatima , rahaf\r   - __Collaborators__: Rawan , Abeer , Haneen ​, Fedaa , Marwa\r ## Table of Contents\r ​\r 1. [Usage](#Usage)\r 1. [Requirements](#requirements)\r 1. [Development](#development)\r     1. [Installing Dependencies](#installing-dependencies)\r     1. [Tasks](#tasks)\r 1. [Team](#team)\r 1. [Contributing](#contributing)\r ​\r ## Usage\r to help people in need by other people\r the uesrs are two types 1: people who want to give away items\r 2: people who need the items\r \t> you need to sighn in to see our home page.\r \tto give somthing away you need to \r \t:-take a picture of the object\r \t:-uploud it choose the options and write descrption\r \t:-when someone request the object you aploued you will get notify\r \t:-you can send them your number for pick up or contact us to help you deliver  it\r \t:-if you wish to take one object, simply click on it and we will provide you with \r \tcontact information.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fedaa200/Dafah.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fedaa200/Dafah/issues"
+  },
+  "homepage": "https://github.com/Fedaa200/Dafah#readme"
 }
